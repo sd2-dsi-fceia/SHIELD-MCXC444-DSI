@@ -1,0 +1,2 @@
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_clock.h:469:20:CLOCK_SetLpuart0Clock	16	static
+../board/board.c:25:6:BOARD_InitDebugConsole	16	static

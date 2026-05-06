@@ -1,0 +1,5 @@
+../source/spi_can.c:41:13:spi_init	8	static
+../source/spi_can.c:49:17:spi_write	24	static
+../source/spi_can.c:58:17:spi_receive	24	static
+../source/spi_can.c:67:13:spi_cs_high	8	static
+../source/spi_can.c:74:13:spi_cs_low	8	static

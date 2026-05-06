@@ -1,0 +1,4 @@
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\CMSIS/core_cm0plus.h:866:22:__NVIC_SetPriority	24	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\CMSIS/core_cm0plus.h:1074:26:SysTick_Config	16	static
+../source/main.c:58:5:main	24	static
+../source/main.c:112:6:SysTick_Handler	8	static

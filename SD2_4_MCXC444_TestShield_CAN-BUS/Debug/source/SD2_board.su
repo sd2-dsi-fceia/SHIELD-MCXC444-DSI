@@ -1,0 +1,17 @@
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_clock.h:437:20:CLOCK_EnableClock	24	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_gpio.h:345:20:GPIO_PinWrite	24	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_gpio.h:374:20:GPIO_PortSet	16	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_gpio.h:389:20:GPIO_PortClear	16	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_gpio.h:404:20:GPIO_PortToggle	16	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_gpio.h:427:24:GPIO_PinRead	16	static
+../source/SD2_board.c:92:6:board_init	40	static
+../source/SD2_board.c:178:6:board_setLed	16	static
+../source/SD2_board.c:199:6:board_setOledPin	16	static
+../source/SD2_board.c:204:6:board_getSw	16	static
+../source/SD2_board.c:209:6:board_configSPI0	40	static
+../source/SD2_board.c:257:6:board_SPISend	32	static
+../source/SD2_board.c:269:6:board_SPIReceive	32	static
+../source/SD2_board.c:281:6:board_initSPI_CS	16	static
+../source/SD2_board.c:300:6:board_spi_cs_high	8	static
+../source/SD2_board.c:307:6:board_spi_cs_low	8	static

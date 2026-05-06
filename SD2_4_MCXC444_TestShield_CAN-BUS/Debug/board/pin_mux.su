@@ -1,0 +1,8 @@
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_clock.h:437:20:CLOCK_EnableClock	24	static
+D:\aguat\Documents\GitHub\SD2_MCXC444_CAN\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:178:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:189:7:BOARD_InitPins	8	static
+../board/pin_mux.c:232:6:BOARD_InitDEBUG_UARTPins	8	static
+../board/pin_mux.c:272:6:BOARD_InitSWD_DEBUGPins	8	static
+../board/pin_mux.c:303:6:BOARD_InitLEDsPins	8	static
+../board/pin_mux.c:339:6:BOARD_InitBUTTONsPins	8	static
