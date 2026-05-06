@@ -20,6 +20,8 @@ Cada carpeta contiene un proyecto autocontenible con todo lo necesario para comp
 - **SD2_3_MCXC444_TestShield_RS485**  
   Comunicación RS485 entre el shield y una PC (usando conversor USB→RS485 externo), con intercambio de datos a través de botones/pantalla.
 
+- **SD2_4_MCXC444_TestShield_CAN-BUS**  
+  Comunicación CAN BUS entre la placa Shield y otro dispositivo que tenga esa comunicación.
 ... 
 
 ## Cómo compilar y probar
